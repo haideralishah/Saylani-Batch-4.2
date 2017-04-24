@@ -1,0 +1,36 @@
+
+
+/*.border-image{
+    border: 10px solid transparent;
+    color: red;
+    background-color: pink;
+    
+    border-image: url("images/heart.jpg") 30 repeat;
+
+    box-shadow: 2px 2px pink;
+
+}
+*/
+
+
+/*
+h1{
+    background-color: pink;
+    display: inline-block;
+    visibility: hidden;
+}*/
+
+
+
+.border-image{
+    /*box-shadow: -2px -2px lightgray;*/
+
+    border: 2px solid #000000;
+/*border-radius: 100px;*/
+
+
+
+    border-top-left-radius: 80px 50px;
+
+
+}

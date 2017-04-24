@@ -1,0 +1,27 @@
+/*
+h1{
+    color: orange;
+}*/
+
+/*h1{
+    color: rgb(0,223,139);
+}*/
+
+/*h1{
+    color: #a13ae0;
+}*/
+
+
+.bg-color{
+    background-color: mediumvioletred;
+}
+.opacity{
+     /*color: white;*/
+     /*background-color: black;*/
+     /*opacity: 0.1;*/
+      /*background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.5);*/
+
+    background-color: hsla(0,0%,78%,0.5);
+   
+}

@@ -1,0 +1,81 @@
+/**{
+    background-color: lightgray;
+}
+
+
+
+h1, p{
+    color: blueviolet;
+    background-color: lightblue;
+}
+
+h1, p{
+    color: red;
+    background-color: pink;
+}
+
+#special-color{
+    color: red;
+}
+
+.special-color{
+    color: purple;
+}
+
+li.special-color{
+    background-color: pink;
+}
+div a{
+    color: orange;
+}
+
+
+h1+p {
+    color: red;
+    
+}
+
+h1~p {
+    background-color: pink;
+    
+}
+*/
+
+
+
+
+* {
+    font-family: Courier New, Courier, monospace;
+    /*background-color: lightgray;*/
+    /*border: 2px solid red;*/
+    }
+
+
+    .back-color{
+        background-color: lightgray;
+        border: 2px solid red;
+    }
+p{
+    border: inherit;
+}
+
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+i {
+color: green;}
+i {
+color: red;}
+
+b {
+color: pink;}
+p b {
+color: blue !important;}
+p b {
+color: violet;}
+p#intro {
+font-size: 100%;}
+p {
+font-size: 75%;}
+

@@ -1,0 +1,128 @@
+/*h1{
+    color: green;
+    background-color: #000000;
+}
+
+
+.sans-serif{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.monospace{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div{
+    font-size: 20px;
+}
+h1{
+    font-weight: normal;
+}
+
+p{
+    font-size: 2em;
+    font-weight: bolder;
+    font-style: oblique;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*@font-face {
+    font-family: 'haider';
+    src: url('fonts/Pacifico.ttf');
+}
+p{
+    font-family: haider;
+}*/
+
+/*
+*/
+
+
+
+
+.my-span{
+    vertical-align: middle;
+}
+
+
+
+
+.text-transform{
+    text-transform: capitalize;
+    line-height: 1em;
+}
+
+a{
+    text-decoration: none;
+}
+h1{
+    text-decoration: line-through;
+    /*word-spacing: 2em;*/
+    letter-spacing: 0.7em;
+    /*text-indent: -3000px;*/
+    text-shadow: -20px -20px 2px red;
+}
+
+.center-align{
+    /*text-align: center;*/
+}
+.right-align{
+    /*text-align: right;*/
+}
+.left-align{
+    text-align: left;
+}
+.justify-align{
+    text-align: justify;
+}
+
+.center-align:first-letter{
+    color: red;
+    font-size: 48px;
+}
+.right-align:first-line{
+    font-size: 25px;
+    background-color: lightgreen;
+}
+
+
+a:link{
+    color: yellow;
+}
+
+a:visited{
+    color: green;
+}
+
+a:hover{
+    color: red;
+}
+
+button:active{
+    background-color: purple;
+}
+input:focus{
+    background-color: purple;
+}
+
+@font-face {
+    font-family: 'pacifico';
+    src: url('fonts/Pacifico.ttf');
+}
+
+p{
+    font-family: pacifico;
+}

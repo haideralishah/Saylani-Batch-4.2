@@ -1,0 +1,38 @@
+.relative{
+    position: relative;
+    top: 14px;
+    left: 111px;
+}
+
+.absolute{
+    background-color: red;
+    position: absolute;
+    top: 14px;
+    left: 111px;
+    z-index: -10;
+}
+
+.fixed{
+    position: fixed;
+     top: 14px;
+    left: 111px;
+
+}
+
+
+.column1of2{
+    width: 60%;
+    margin: 1%;
+      float: left;
+}
+.column2of2{
+    width: 30%;
+    margin: 1%;
+      float: left;
+}
+
+.column{
+    width: 30%;
+    margin: 1%;
+    float: left;
+}
