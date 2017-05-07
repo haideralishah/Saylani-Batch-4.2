@@ -74,7 +74,129 @@
 
 
 
-var text = 'a quick Haider voluptatem fox jumps over the lazy dog';
+// var text = 'a quick Haider voluptatem fox jumps over the lazy dog';
 
 
-var idx = text.indexOf('Haider');
+// var idx = text.indexOf('Haider');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// var dateOfBirth = new Date();
+// console.log(dateOfBirth);
+// console.log(dateOfBirth.toString().slice(2,5));
+
+
+
+// var rightNow = new Date();
+
+// console.log(rightNow);
+
+
+// var doomsday = new Date("June 30, 2035");
+// console.log(doomsday);
+
+// var diff = doomsday - rightNow;
+// console.log(Math.floor(diff / (1000 * 60 * 60 * 24)));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// function sumTwoNumbers(num1, num2) {
+//     var sum = num1 + num2;
+//     // console.log(sum);
+//     // return 5;
+//     return sum;
+// }
+
+
+// var sum = sumTwoNumbers(); // 5 + 7 
+
+// console.log(sum, '----------------------');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// function calcTot(merchTot) {
+//     var orderTot;
+//     if (merchTot >= 100) {
+//         orderTot = merchTot;
+//     }
+//     else if (merchTot < 50.01) {
+//         orderTot = merchTot + 5;
+//     }
+//     else {
+//         orderTot = merchTot + 5 + (.03 * (merchTot - 50));
+//     }
+//     return orderTot;
+// }
+// var userInput = +prompt('userinput');
+// var totalCost = calcTot(userInput);
+
+// console.log(totalCost);
+
+
+
+
+
+
+
+// var abc = 'abdullah';
+
+
+// function abcd() {
+//     abc = 'haider';
+
+//     return abc;
+// }
+// abcd();
+
+// console.log(abc);
+
+
+
+
+
+
+
+
+
+

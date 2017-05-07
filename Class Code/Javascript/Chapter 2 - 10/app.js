@@ -65,6 +65,54 @@
 
 
 
-var num1 = +prompt('write your lucky number'); // '5'
-var num2 = +prompt('write your unlucky number'); // '8'
-console.log(num1 + num2);
+// var num1 = +prompt('write your lucky number'); // '5'
+// var num2 = +prompt('write your unlucky number'); // '8'
+// console.log(num1 + num2);
+
+
+
+
+// var randomNumber = Math.random();
+// var improvedNumber = (randomNumber * 10);
+// var roundedNumber = Math.floor(improvedNumber);
+// console.log(roundedNumber);
+// var secondRand = Math.random();
+// var improvedNumber = (secondRand * 10);
+// var roundedNumber = Math.floor(improvedNumber);
+// console.log(roundedNumber);
+// var thridRand = Math.random();
+// var improvedNumber = (thridRand * 10);
+// var roundedNumber = Math.floor(improvedNumber);
+// console.log(roundedNumber);
+
+
+
+
+// var result = "200" + 150;
+
+// var elderAge = prompt('what is your age');
+// elderAge = parseFloat(elderAge);         //decimal b le k aye ga
+
+// elderAge = parseInt(elderAge);               // decimal ura dega
+// console.log(elderAge);
+
+
+
+// var elderAge = prompt('what is your age');
+// elderAge = Number(elderAge);        // convert into number
+// console.log(elderAge + 3);
+
+
+
+// var elderAge = 2000;
+// elderAge = elderAge.toString();      /// Convert into string
+// console.log(elderAge + ' only');
+
+
+
+
+
+
+// var bill = 2.1564;
+
+// console.log(bill.toFixed(2));  ///converted number is in string
