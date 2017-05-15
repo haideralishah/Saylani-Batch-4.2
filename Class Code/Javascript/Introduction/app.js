@@ -199,4 +199,113 @@
 
 
 
+// console.log(2 % 20 % 6);
 
+//   hyp2 = base2 + perp2
+
+
+// function hyp(base, per) {
+//     function square(num) {
+//         return num * num;
+//     }
+
+//     var baseSquare = square(base);
+//     var perpSquare = square(per);
+
+//     var hypSquare = baseSquare + perpSquare;
+
+//     var hyp = Math.sqrt(hypSquare);
+
+//     return hyp;
+
+// }
+// var myHyp = hyp(5, 5);
+
+// console.log(myHyp);
+
+
+
+
+
+
+
+// function calculator(num1, num2, operator) {
+//     if (operator === '+') {
+//         return num1 + num2;
+//     }
+//     else if (operator === '-') {
+//         return num1 - num2;
+//     }
+//     else if (operator === '*') {
+//         return num1 * num2;
+//     }
+//     else if (operator === '/') {
+//         return num1 / num2;
+//     }
+//     else if (operator === '%') {
+//         return num1 % num2;
+//     }
+// }
+
+// console.log(calculator(5, 5, '/'));
+
+
+
+
+
+
+
+// function addition(num1, num2) {
+//     return num1 * num2;
+// }
+// function substraction(num1, num2) {
+//     return num1 + num2;
+// }
+
+// function multiplication(num1, num2) {
+//     return num1 / num2;
+// }
+
+
+// function calculat(num1, num2, func) {
+//     var myCall = func(num1, num2);
+//     console.log(myCall);
+// }
+
+// calculat(10, 2, multiplication);
+
+
+
+
+
+
+
+
+// var userName = 'Haider';
+
+// function myFunc() {
+//     var userName = 'Abdullah';
+
+
+// }
+
+// console.log(userName);
+
+// myFunc(console.log(userName));
+
+// console.log(userName);
+
+
+
+
+// var greetUser = function (firstName, lastName) {
+//     alert(firstName + ' ' + lastName);
+// }
+
+// greetUser('haider', 'ali');
+
+
+
+// (function () {
+//     console.log('hello world');
+// })()
