@@ -1,0 +1,42 @@
+git config --global user.name <uesr name>
+
+
+
+
+git config --global user.email <email>
+
+
+
+git init
+
+git status
+
+
+git add <file name>
+
+
+git add .
+
+
+
+git commit --message ''
+
+
+git commit -m ''
+
+
+
+
+
+
+
+
+git remote add origin <repository URL>
+
+
+
+
+
+
+
+git push -u origin master
